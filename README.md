@@ -1,5 +1,5 @@
 - Me chamo Gabriel
-- Eu sou interessado em ➮ Java/Html/SQL/Coldfusion/CSS
+- MInhas linguagens de programação favoritas são ➮ Java/Html/SQL/Coldfusion/CSS
 - Estou aqui para aprender e adquirir novos conhecimentos.
 
 <!---
