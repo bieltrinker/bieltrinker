@@ -1,6 +1,6 @@
-- 👋 Olá, Me chamo Gabriel
-- 👀 Eu sou interessado em ➮ Java/Html/SQL/Coldfusion/CSS
-- 📫 Estou aqui para aprender e adquirir novos conhecimentos.
+- Me chamo Gabriel
+- Eu sou interessado em ➮ Java/Html/SQL/Coldfusion/CSS
+- Estou aqui para aprender e adquirir novos conhecimentos.
 
 <!---
 bieltrinker/bieltrinker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
