@@ -1,5 +1,5 @@
 - Me chamo Gabriel
-- MInhas linguagens de programação favoritas são ➮ Java/Html/SQL/Coldfusion/CSS
+- Minhas linguagens de programação favoritas são ➮ Java/Html/SQL/Coldfusion/CSS
 - Estou aqui para aprender e adquirir novos conhecimentos.
 
 <!---
