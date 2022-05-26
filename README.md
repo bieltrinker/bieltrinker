@@ -1,4 +1,4 @@
-## Oiii! me chamo Pedro Gabriel 🤙 <img height="20em" src="https://emoji.discord.st/emojis/b728ce9c-9ea3-4977-a976-f6fef080d28c.gif"/>
+## Oiii! me chamo Pedro Gabriel <img height="25em" src="https://emoji.discord.st/emojis/b728ce9c-9ea3-4977-a976-f6fef080d28c.gif"/>
 
 <div align="center">
   <a href="https://github.com/bieltrinker">
