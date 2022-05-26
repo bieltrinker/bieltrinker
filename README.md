@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div></center>
 </br>
