@@ -1,4 +1,4 @@
-## Olá me chamo Pedro Gabriel, Apaixonado por programação e tecnologia!
+## Olá me chamo Pedro Gabriel
 <div align="center">
   <a href="https://github.com/bieltrinker">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bieltrinker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
