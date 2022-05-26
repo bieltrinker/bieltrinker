@@ -1,4 +1,5 @@
-## Oiii! me chamo Pedro Gabriel 🤙
+## Oiii! me chamo Pedro Gabriel 🤙 <img height="150em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiscord.st%2Femojis%2F%3Fq%3Dgif&psig=AOvVaw3TqiiR7hu6yRkgJiOE_LdA&ust=1653651769796000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjpiYeL_fcCFQAAAAAdAAAAABAD"/>
+
 <div align="center">
   <a href="https://github.com/bieltrinker">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bieltrinker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
