@@ -1,5 +1,4 @@
-## Oiii! me chamo Pedro Gabriel <img height="25em" src="https://emoji.discord.st/emojis/b728ce9c-9ea3-4977-a976-f6fef080d28c.gif"/>
-<img height="25em" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/>
+## Oiii! me chamo Pedro Gabriel <img height="25em" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"/>
 <div align="center">
   <a href="https://github.com/bieltrinker">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bieltrinker&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
