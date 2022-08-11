@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70ff00&height=180&section=header&text=Welcome to Overworld&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Pedro+Gabriel;I'm+18+years;I'm+from+Brazil+in+Goiás,+GO;Work+with+programming+and+developments;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
