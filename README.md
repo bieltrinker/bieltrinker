@@ -16,6 +16,9 @@
   <a href="https://www.linkedin.com/in/pedro-gabriel-7b5959207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://soffity.com" target="_blank">
+    <img src="https://img.shields.io/badge/Soffity-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="Soffity">
+  </a>
 </div>
 
 <br>
@@ -72,16 +75,15 @@ Robust automation and management system for gyms, including:
 
 <br>
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <details open>
-<summary><b>💻 Main Skills</b></summary>
+<summary><b>Main Skills</b></summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 </details>
@@ -105,6 +107,7 @@ Robust automation and management system for gyms, including:
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -121,8 +124,12 @@ Robust automation and management system for gyms, including:
 <summary><b>Currently Studying</b></summary>
 <br>
 
+![WhatsApp Integration API](https://img.shields.io/badge/WhatsApp%20Integration%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </details>
 
