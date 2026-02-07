@@ -45,6 +45,24 @@ A 2D MMORPG game inspired by the Pokémon universe, featuring online multiplayer
 </details>
 
 <details open>
+<summary><b>MangasFyr - Manga Reading Platform & Community</b></summary>
+<br>
+
+**MangasFyr — Platform & Community for Manga Reading**
+
+A reading platform focused on community experience, featuring:
+- Reading interface optimized for web
+- Favorites / library organization
+- Community interactions (comments/ratings)
+- Admin/moderation tools (optional)
+
+🔗 [Visit Platform](https://mangasfyr.com)
+
+**Technologies:** PHP, Laravel, MySQL, JavaScript and Docker Composer.
+
+</details>
+
+<details open>
 <summary><b>Gym Management System - ERP</b></summary>
 <br>
 
